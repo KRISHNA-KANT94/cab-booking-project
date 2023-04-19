@@ -1,0 +1,17 @@
+Business Operations to be automated by On Demand Cab Booking Portal
+Show cab type
+Show brand
+Show cabs nearby the users
+Show charges applicable
+Book a cab
+Cancel ride
+Track live location
+Payment options
+submit feedback
+Update customer personal information
+Change password
+Forgot password
+get user details
+Login
+Logout
+Get Cab driver details
