@@ -1,0 +1,113 @@
+SRS Document
+
+Title:
+On Demand Cab Booking Portal
+Team:
+Customers
+Drivers
+Administrators
+Quality Assurance Team
+Support team
+System Analysts
+
+Objective (Purpose):
+The Online Cab Booking Website is intended to provide a complete solution for customers to book
+rides using a web application, and for drivers to manage their rides, routes, and payment through a
+single gateway using the internet. The website aims to provide a safe and reliable platform for both
+customers and drivers to meet their transportation needs.
+
+Definitions:
+
+Cab: A vehicle used for transportation of passengers. The website offers wide range of vehicles
+options such as micro, mini, hatchback, sedan, SUV.
+Ride: A journey from one location to another using a cab.
+Customer: A person who books a ride through the website.
+Driver: A person who provides transportation services through the website.
+Administrator: A person who manages and organize the system
+Payment Gateway: Payment gateway is a network through which the customer will transfer the
+fund.
+Rating System: A system that allows customers to rate their driver&#39;s performance, behaviour.
+GPS: Global Positioning System.
+
+Scope:
+The Online Cab Booking Website will allow customers to book a ride from one location to another
+using the website. The website will also allow drivers to manage their rides, routes, and payment
+through their driver&#39;s account.
+Administrators will be able to manage the system, view reports, and feedback from the customers,
+and handle any issues that arise with the system.
+
+Functional Requirements:
+
+For Customers:
+ Customers will be able to create an account on the website, with their name, email address,
+and phone number &amp; they can also modify their profile details at any time.
+ Customers will be able to book a ride by specifying the pickup and drop locations, the ride
+date and time, and the type of vehicle they want.
+ Customers will able to see the estimated fare and provide an estimated time of arrival for
+the cab.
+ Customers will be able to select a payment option, such as cash, credit card, debit card, UPI,
+pay-later services, etc.
+ Customers will be able to view the Driver&#39;s current location on a map, through GPS.
+ Customers will be able to see the name of the driver and his ratings, and they can call him if
+the ride is confirmed.
+ Customers will be able to cancel a ride within a certain time frame, without any penalty.
+ Customers will be able to view the list of previous rides which were completed.
+For Drivers:
+ Drivers will be able to create an account on the website, with their name, email address,
+phone number, and driving license number.
+ Drivers will be able to manage their rides, routes, and payment through their driver&#39;s
+account.
+ Drivers will able to see the name of the Customer &amp; he can call him if the ride is confirmed.
+ Drivers will be able to cancel a ride within a certain time frame, without any penalty, based
+on their availability and location.
+ Drivers will be able to withdraw their balance directly to the bank account.
+ Drivers will be able to view the customer&#39;s pickup and drop location on a map, through GPS.
+For Administrators:
+ An Administrator will be able to delete an existing account.
+ An Administrator will be able to view the profile of each account.
+ An Administrators will be able to view reports, ride requests, payments, and other
+parameters.
+
+ An Administrator will be able to ban an account if he found any suspicious activity.
+
+Non-Functional Requirements:
+
+Website &amp; Security:
+ The website should have a user-friendly interface that is easy to perform and understand.
+ The website should be secure and protect user data from unauthorized access.
+ Only registered customers will be able to request for a ride.
+ Each stakeholder will be to access system through authentication process.
+ Monitor the website for suspicious activity, such as multiple failed logins attempts or
+unusual payment transactions.
+Fare:
+ The fare should be calculated based on the distance travelled and the time taken to reach
+the destination.
+Reliability:
+ The system and the support team should be reliable and available 24/7.
+ The system should handle user requests by managing load balancing.
+Maintainability:
+ The system should be easy to maintain and upgrade.
+ Separate environment will be maintained for system for isolation in production, testing, and
+development.
+Portability:
+ The system should be easily portable to different platforms and devices.
+ System will provide portable User Interface (HTML, CSS, JS) through users will be able to
+ access online cab booking portal.
+
+Accessibility:
+ Only registered customer will be able to book a cab after authentication.
+ The system should comply with accessibility standards team will be able to view daily,
+weekly, monthly, annual business Growth through customised dashboard.
+Durability:
+ The system should be durable and resistant to crashes.
+ The system should be able to recover from crashes quickly.
+Efficiency:
+ On peak hours users will be able to book cab with same response time.
+
+Modularity:
+ System should be designed and developed using reusable, independent or dependent
+business scenarios in the form of modules.
+ These modules will be loosely coupled and highly cohesive.
+Scalability:
+ System will be able to provide consistent user experience to stake holder as
+well as visitors irrespective of load.
