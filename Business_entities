@@ -1,0 +1,32 @@
+List of Business entities:
+
+Customers: First name
+Last name
+Email id
+Cab: Model (micro, mini, hatchback, sedan, SUV)
+Brand name
+
+Staff: Customer care rep
+Marketing rep
+Director
+
+Booking: Booking id
+Booking Date
+Customer id
+Charges
+Status
+
+Payment:
+Payment id
+Payment date
+Amount
+Status
+Transaction id
+
+Transaction:
+Transaction id,
+Transaction date,
+mode
+from account
+to account
+amount
