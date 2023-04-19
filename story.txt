@@ -1,0 +1,45 @@
+Story :
+
+
+User : 
+
+
+        I can register myself.
+		
+	I can reset my password.
+		
+        I can see a list of available cabs
+        
+	I can select types of vehicle to ride.
+        
+	I can read ratings and reviews about the cab driver I selected.   
+
+Driver :     
+            
+	I can reset my password.
+
+        I need to be able to see customers previous history.
+		
+        As a user, I want to view statistical data about finances.
+
+Should-have features:
+
+       User can change personal information
+
+       Driver can change personal information
+
+Additional features that could be added to the system are:
+
+        User can book a cab in advance
+
+        Driver can update their availability status
+
+        User can track the location of the cab in real-time
+
+        User can contact the driver directly through the app
+
+        User can cancel their ride
+
+        Driver can rate the user after the ride is completed
+
+        User can view their ride history and receipts
