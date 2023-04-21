@@ -1,0 +1,18 @@
+User: This module would allow users to create an account, 
+login, and search for available cabs based on their location and destination.
+
+Driver: This module would allow drivers to create an account, 
+login, and update their availability status.
+
+Booking: This module would allow users to book a cab for a specific date and time, 
+view their booking history, and cancel a booking if necessary.
+
+Payment: This module would allow users to make payment for their booking 
+through various payment options, including credit/debit cards, mobile wallets, and UPI.
+
+Rating and Feedback: This module would allow users to rate and provide 
+feedback about the service provided by the driver.
+
+Admin: This module would allow the administrator to manage the system, 
+including managing user accounts, managing driver accounts, handling payments, and managing feedback and ratings.
+
